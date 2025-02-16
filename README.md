@@ -10,7 +10,8 @@ This Python-based project allows users to open applications and websites using v
 #### **Step 1: Install Dependencies**  
 Make sure Python is installed. Then, install the required library:  
 ```sh
-pip install SpeechRecognition
+pip install speechrecognition pyaudio pyautogui pillow
+
 ```
 
 ---
