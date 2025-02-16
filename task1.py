@@ -4,7 +4,7 @@ import webbrowser
 
 # Mapping voice commands to apps
 app_commands = {
-    "whatsapp": "C:\\Users\\pottu\\Desktop\\WhatsApp - Shortcut.lnk",
+    "whatsapp": "C:\\Users\\pottu\\Desktop\\WhatsApp - Shortcut.lnk", #update your app path
     "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
     "youtube": "https://www.youtube.com",
     "notepad": "notepad.exe",
